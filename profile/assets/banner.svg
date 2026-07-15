@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3240" height="1080" viewBox="0 0 3240 1080" role="img" aria-labelledby="title description">
   <title id="title">TypeType</title>
-  <desc id="description">TypeType - Video, on your terms</desc>
+  <desc id="description">TypeType</desc>
   <defs>
     <radialGradient id="glow" cx="82%" cy="0%" r="68%">
       <stop offset="0%" stop-color="#fda4af" stop-opacity="0.9"/>
@@ -18,6 +18,5 @@
     <circle cx="188" cy="116" r="11" fill="#ef4444" stroke="none"/>
     <circle cx="188" cy="164" r="11" fill="#ef4444" stroke="none"/>
   </g>
-  <text x="1620" y="690" fill="#f4f4f5" font-family="Inter, system-ui, sans-serif" font-size="250" font-weight="300" text-anchor="middle">TypeType</text>
-  <text x="1620" y="830" fill="#a1a1aa" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="500" text-anchor="middle">VIDEO, ON YOUR TERMS</text>
+  <text x="1620" y="750" fill="#f4f4f5" font-family="Inter, system-ui, sans-serif" font-size="250" font-weight="300" text-anchor="middle">TypeType</text>
 </svg>

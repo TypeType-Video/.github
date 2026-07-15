@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/banner.svg" width="100%" alt="TypeType - Video, on your terms">
+  <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/banner.svg" width="100%" alt="TypeType">
 
-  <p><strong>A privacy-respecting, self-hosted video platform for YouTube, BiliBili and NicoNico.</strong></p>
+  <p>Self-hosted web client for YouTube, BiliBili and NicoNico.</p>
 
   <p>
-    <a href="https://typetype.video"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/website.svg" alt="Website"></a>
-    <a href="https://priveetee.github.io/Docs-TypeType/"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/documentation.svg" alt="Documentation"></a>
-    <a href="https://typetype.video/releases"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/releases.svg" alt="Releases"></a>
-    <a href="https://github.com/sponsors/Priveetee"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/support.svg" alt="Support TypeType"></a>
+    <a href="https://typetype.video">Website</a> ·
+    <a href="https://priveetee.github.io/Docs-TypeType/">Documentation</a> ·
+    <a href="https://typetype.video/releases">Releases</a> ·
+    <a href="https://github.com/sponsors/Priveetee">Support</a>
   </p>
 </div>
 
 ## Privacy Policy and Disclaimer
 
-TypeType aims to provide a privacy-respecting, self-hosted experience for accessing web-based media services. Account information, settings, subscriptions, playlists, watch history and playback progress are stored by the TypeType instance you choose to use and are managed by that instance's administrator.
+TypeType is designed to be self-hosted. Account information, settings, subscriptions, playlists, watch history and playback progress are stored by the selected TypeType instance and managed by its administrator.
 
-To provide its features, TypeType communicates with supported media services and community APIs. Requests sent to those services may be subject to their respective privacy policies and terms.
+TypeType communicates with supported media services and community APIs. Requests sent to those services may be subject to their respective privacy policies and terms.
 
-The TypeType project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, BiliBili, NicoNico, Dwango, or any of their affiliates or subsidiaries.
+TypeType is not affiliated with, funded, authorized, or endorsed by YouTube, Google LLC, BiliBili, NicoNico, or their affiliates.
 
 Any trademarks, service marks, trade names, or other intellectual property rights belong to their respective owners.
 
-TypeType is open-source software developed for personal use, education, and research.
+TypeType is open-source software.
 
 ## Donate
 
-If you would like to support TypeType's development, you can [sponsor Priveetee on GitHub](https://github.com/sponsors/Priveetee).
+Development can be supported through [GitHub Sponsors](https://github.com/sponsors/Priveetee).
 
-Financial support is entirely optional. Bug reports, feedback, documentation improvements, and pull requests are equally welcome.
+Bug reports, documentation improvements and pull requests are also accepted.
