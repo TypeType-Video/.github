@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="34" viewBox="0 0 108 34" role="img" aria-labelledby="title">
+  <title id="title">Releases</title>
+  <defs><linearGradient id="accent" x1="5" y1="29" x2="29" y2="5"><stop stop-color="#ff4d5a"/><stop offset="1" stop-color="#fb7185"/></linearGradient></defs>
+  <rect width="108" height="34" rx="5" fill="#161316"/>
+  <path d="M34 4v26" stroke="#f2eeff" stroke-opacity=".12"/>
+  <g transform="translate(6 6)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+    <path d="M11.5 2.5H4a2 2 0 0 0-2 2V12l8.5 8.5a2 2 0 0 0 2.8 0l7.2-7.2a2 2 0 0 0 0-2.8L12 2Z"/><circle cx="7" cy="7" r="1"/>
+  </g>
+  <text x="44" y="21.5" fill="#f2eeff" font-family="Arial, sans-serif" font-size="12" font-weight="600">Releases</text>
+</svg>

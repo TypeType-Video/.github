@@ -2,13 +2,28 @@
   <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/typetype-banner.svg" width="100%" alt="TypeType">
 
   <p>Self-hosted web client for YouTube, BiliBili and NicoNico.</p>
+</div>
 
-  <p>
-    <a href="https://typetype.video">Website</a> ·
-    <a href="https://priveetee.github.io/Docs-TypeType/">Documentation</a> ·
-    <a href="https://typetype.video/releases">Releases</a> ·
-    <a href="https://github.com/sponsors/Priveetee">Support</a>
-  </p>
+<p align="center">Project links</p>
+
+<div align="center">
+  <a href="https://typetype.video"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/website-widget.svg" alt="Website"></a>
+  <a href="https://priveetee.github.io/Docs-TypeType/"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/documentation-widget.svg" alt="Documentation"></a>
+  <a href="https://typetype.video/releases"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/releases-widget.svg" alt="Releases"></a>
+</div>
+
+<p align="center">Source code and licenses</p>
+
+<div align="center">
+  <a href="https://github.com/Priveetee/TypeType"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/source-widget.svg" alt="Source code"></a>
+  <a href="https://opensource.org/license/mit"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/mit-widget.svg" alt="Frontend licensed under MIT"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/gpl-widget.svg" alt="Server licensed under GPL-3.0"></a>
+</div>
+
+<p align="center">Support development</p>
+
+<div align="center">
+  <a href="https://github.com/sponsors/Priveetee"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/sponsors-widget.svg" alt="GitHub Sponsors"></a>
 </div>
 
 ## Privacy Policy and Disclaimer

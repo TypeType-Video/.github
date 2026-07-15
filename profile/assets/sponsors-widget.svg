@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="34" viewBox="0 0 148 34" role="img" aria-labelledby="title">
+  <title id="title">GitHub Sponsors</title>
+  <defs><linearGradient id="accent" x1="5" y1="29" x2="29" y2="5"><stop stop-color="#ff4d5a"/><stop offset="1" stop-color="#fb7185"/></linearGradient></defs>
+  <rect width="148" height="34" rx="5" fill="#161316"/>
+  <path d="M34 4v26" stroke="#f2eeff" stroke-opacity=".12"/>
+  <g transform="translate(6 6)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+    <path d="M19.2 4.8a5.3 5.3 0 0 0-7.5 0L11 5.5l-.7-.7a5.3 5.3 0 0 0-7.5 7.5L11 20.5l8.2-8.2a5.3 5.3 0 0 0 0-7.5Z"/>
+  </g>
+  <text x="44" y="21.5" fill="#f2eeff" font-family="Arial, sans-serif" font-size="12" font-weight="600">GitHub Sponsors</text>
+</svg>
