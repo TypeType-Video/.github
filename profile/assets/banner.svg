@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3240" height="1080" viewBox="0 0 3240 1080" role="img" aria-labelledby="title description">
+  <title id="title">TypeType</title>
+  <desc id="description">TypeType - Video, on your terms</desc>
+  <defs>
+    <radialGradient id="glow" cx="82%" cy="0%" r="68%">
+      <stop offset="0%" stop-color="#fda4af" stop-opacity="0.9"/>
+      <stop offset="24%" stop-color="#fb7185" stop-opacity="0.58"/>
+      <stop offset="55%" stop-color="#ef4444" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#09090b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="3240" height="1080" fill="#09090b"/>
+  <rect width="3240" height="1080" fill="url(#glow)"/>
+  <g transform="translate(1492 145)" fill="none" stroke="#ef4444" stroke-linecap="round" stroke-linejoin="round" stroke-width="18">
+    <rect x="32" y="72" width="192" height="136" rx="8"/>
+    <path d="M80 24l48 48 48-48"/>
+    <path d="M152 208V72"/>
+    <circle cx="188" cy="116" r="11" fill="#ef4444" stroke="none"/>
+    <circle cx="188" cy="164" r="11" fill="#ef4444" stroke="none"/>
+  </g>
+  <text x="1620" y="690" fill="#f4f4f5" font-family="Inter, system-ui, sans-serif" font-size="250" font-weight="300" text-anchor="middle">TypeType</text>
+  <text x="1620" y="830" fill="#a1a1aa" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="500" text-anchor="middle">VIDEO, ON YOUR TERMS</text>
+</svg>
