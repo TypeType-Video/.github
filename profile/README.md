@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/banner.svg" width="100%" alt="TypeType">
+  <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/typetype-banner.svg" width="100%" alt="TypeType">
 
   <p>Self-hosted web client for YouTube, BiliBili and NicoNico.</p>
 
