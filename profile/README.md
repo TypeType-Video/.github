@@ -12,6 +12,12 @@
   <a href="https://typetype.video/releases"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/releases-widget.svg" alt="Releases"></a>
 </div>
 
+<p align="center">Community</p>
+
+<div align="center">
+  <a href="https://www.reddit.com/r/TypeType/"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/reddit-widget.svg" alt="r/TypeType"></a>
+</div>
+
 <p align="center">Source code and licenses</p>
 
 <div align="center">
