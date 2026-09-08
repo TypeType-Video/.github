@@ -15,7 +15,7 @@
 <p align="center">Community</p>
 
 <div align="center">
-  <a href="https://www.reddit.com/r/TypeType/"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/reddit-widget.svg" alt="r/TypeType"></a>
+  <a href="https://blorp.lemmy.zip/home/c/TypeType@lemmy.zip"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/lemmy-widget.svg" alt="TypeType on Lemmy"></a>
 </div>
 
 <p align="center">Source code and licenses</p>
