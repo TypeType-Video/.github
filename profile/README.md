@@ -1,10 +1,10 @@
-U want to know the current position of TypeType about AI ? Go check [this](https://github.com/TypeType-Video/TypeType/blob/dev/AI_TRANSPARENCY.md).
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/typetype-banner.svg" width="100%" alt="TypeType">
 
   <p>Self-hosted web client for YouTube, BiliBili and NicoNico.</p>
 </div>
+
+You want to know the current position of TypeType about AI ? Go check [this](https://github.com/TypeType-Video/TypeType/blob/dev/AI_TRANSPARENCY.md).
 
 <p align="center">Project links</p>
 
