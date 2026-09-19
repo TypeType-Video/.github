@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="34" viewBox="0 0 122 34" role="img" aria-labelledby="title">
+  <title id="title">Git mirror</title>
+  <defs><linearGradient id="accent" x1="5" y1="29" x2="29" y2="5"><stop stop-color="#ff4d5a"/><stop offset="1" stop-color="#fb7185"/></linearGradient></defs>
+  <rect width="122" height="34" rx="5" fill="#161316"/>
+  <path d="M34 4v26" stroke="#f2eeff" stroke-opacity=".12"/>
+  <g transform="translate(6 6)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8">
+    <circle cx="5.5" cy="5.5" r="2.5"/><circle cx="5.5" cy="16.5" r="2.5"/><circle cx="16.5" cy="8.5" r="2.5"/>
+    <path d="M5.5 8v6M8 5.5H14a2.5 2.5 0 0 1 2.5 2.5v12a2.5 2.5 0 0 1-2.5 2.5H8"/>
+  </g>
+  <text x="44" y="21.5" fill="#f2eeff" font-family="Arial, sans-serif" font-size="12" font-weight="600">Git mirror</text>
+</svg>
