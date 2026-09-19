@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/Priveetee/TypeType"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/source-widget.svg" alt="Source code"></a>
-  <a href="https://git.typetype.video"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/git-mirror-widget.svg" alt="Git mirror"></a>
+  <a href="https://git.typetype.video/TypeType-Video"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/git-mirror-widget.svg" alt="Git mirror"></a>
   <a href="https://opensource.org/license/mit"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/mit-widget.svg" alt="Frontend licensed under MIT"></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://raw.githubusercontent.com/TypeType-Video/.github/main/profile/assets/gpl-widget.svg" alt="Server licensed under GPL-3.0"></a>
 </div>
